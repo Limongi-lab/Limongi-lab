@@ -6,7 +6,7 @@ Aprendo construindo coisas que funcionam de verdade. Os projetos aqui estão no 
 
 ---
 
-## 🧰 Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 **Backend:** Python · Django · Django REST Framework · APIs REST · Swagger
 
