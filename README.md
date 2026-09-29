@@ -25,7 +25,7 @@ API que coleta vagas reais de dev júnior, extrai as tecnologias mais pedidas e 
 Plataforma educacional com narrativa RPG, sistema de XP e avaliação de respostas por IA. Apresentado na Mostratec da UNIUBE. Stack: React, Node.js, MongoDB.
 
 **[UFU Mia](https://github.com/Limongi-lab/ufu.mia)**  
-Site real para o Projeto Mia da UFU — projeto de extensão de proteção animal. Cadastro de animais disponíveis para adoção, histórias de resgates e integração com Pix para doações. Stack: Django, React, TypeScript.
+Site real para o Projeto Mia da UFU projeto de extensão de proteção animal. Cadastro de animais disponíveis para adoção, histórias de resgates e integração com Pix para doações. Stack: Django, React, TypeScript.
 
 ---
 
