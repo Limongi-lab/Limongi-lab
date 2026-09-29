@@ -1,8 +1,8 @@
 # Rafael Limongi
 
-Estudante de Engenharia de Computação (UNIUBE) e Gestão da Informação (UFU), com foco em desenvolvimento backend com Python.
+Estudante de Engenharia de Computação (UNIUBE) e Gestão da Informação (UFU). Trabalho com backend em Python, usando Django e APIs REST, e mexo com React no frontend quando o projeto pede.
 
-Prefiro aprender construindo coisas que funcionam de verdade todos os projetos aqui estão rodando, não são só exercícios.
+Aprendo construindo coisas que funcionam de verdade. Os projetos aqui estão no ar, e um deles já é usado por um projeto real da UFU, não são só exercício.
 
 ---
 
@@ -13,6 +13,7 @@ Prefiro aprender construindo coisas que funcionam de verdade todos os projetos a
 <p>
   <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,mongodb,docker,git,github,githubactions,react,nodejs,js&theme=dark" />
 </p>
+
 ---
 
 ### Projetos principais
