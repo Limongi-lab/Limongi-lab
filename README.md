@@ -2,17 +2,17 @@
 
 Estudante de Engenharia de Computação (UNIUBE) e Gestão da Informação (UFU), com foco em desenvolvimento backend com Python.
 
-Prefiro aprender construindo coisas que funcionam de verdade — todos os projetos aqui estão rodando, não são só exercícios.
+Prefiro aprender construindo coisas que funcionam de verdade todos os projetos aqui estão rodando, não são só exercícios.
 
 ---
 
-### O que eu uso
+## 🧰 Linguagens e Ferramentas
 
-**Backend:** Python, Django REST Framework, APIs REST, Swagger  
-**Banco de dados:** PostgreSQL, SQLite, MongoDB  
-**Ferramentas:** Docker, Git, GitHub Actions, pytest  
-**Frontend (básico):** React, Node.js, JavaScript
+**Backend:** Python · Django · Django REST Framework · APIs REST · Swagger
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,mongodb,docker,git,github,githubactions,react,nodejs,js&theme=dark" />
+</p>
 ---
 
 ### Projetos principais
